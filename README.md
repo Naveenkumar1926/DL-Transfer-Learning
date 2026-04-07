@@ -9,6 +9,7 @@ The problem statement for this experiment is to develop an image classification 
 
 ## Neural Network Model
 Include the neural network model diagram.
+<img width="1043" height="802" alt="image" src="https://github.com/user-attachments/assets/e89b0214-396e-402c-9891-22c433677482" />
 
 ## DESIGN STEPS
 STEP 1:
